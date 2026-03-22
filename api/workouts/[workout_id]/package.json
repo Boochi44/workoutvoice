@@ -1,0 +1,14 @@
+{
+  "name": "workoutvoice",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "form-data": "^4.0.0",
+    "formidable": "^3.5.1",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
